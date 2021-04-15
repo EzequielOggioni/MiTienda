@@ -1,0 +1,16 @@
+
+input[type="password"]{
+    color: blue;
+}
+
+
+#fecha{
+    color: red;
+    width: 60%;
+    position: absolute;
+    left: 15%;
+}
+
+.colorNegro{
+    background-color: black;
+}
